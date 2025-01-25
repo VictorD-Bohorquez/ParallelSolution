@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Maestria\\Cloud_Computing\\ParallelSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E4B18E-5D21-483A-B4ED-DD0EC42D1F98}|ParallelSolution\\ParallelSolution.vcxproj|F:\\Maestria\\Cloud_Computing\\ParallelSolution\\ParallelSolution\\ParallelSolution.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E3E4B18E-5D21-483A-B4ED-DD0EC42D1F98}|ParallelSolution\\ParallelSolution.vcxproj|solutionrelative:ParallelSolution\\ParallelSolution.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ParallelSolution.cpp",
+              "DocumentMoniker": "F:\\Maestria\\Cloud_Computing\\ParallelSolution\\ParallelSolution\\ParallelSolution.cpp",
+              "RelativeDocumentMoniker": "ParallelSolution\\ParallelSolution.cpp",
+              "ToolTip": "F:\\Maestria\\Cloud_Computing\\ParallelSolution\\ParallelSolution\\ParallelSolution.cpp",
+              "RelativeToolTip": "ParallelSolution\\ParallelSolution.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-24T17:06:00.142Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
