@@ -17,8 +17,6 @@ int main()
 	float b[N];
 	float c[N];
 	int i;
-	int min = 1;
-	int max = 10000;
 	int parts = CHUNK;
 
 	//Inicializamos la semilla para nuestro generador de números aleatorios

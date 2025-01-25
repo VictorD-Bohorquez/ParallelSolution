@@ -1,5 +1,5 @@
 ﻿  ParallelSolution.cpp
-F:\Maestria\Cloud_Computing\ParallelSolution\ParallelSolution\ParallelSolution.cpp(36,13): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
-F:\Maestria\Cloud_Computing\ParallelSolution\ParallelSolution\ParallelSolution.cpp(37,13): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+F:\Maestria\Cloud_Computing\ParallelSolution\ParallelSolution\ParallelSolution.cpp(34,13): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+F:\Maestria\Cloud_Computing\ParallelSolution\ParallelSolution\ParallelSolution.cpp(35,13): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
 F:\Maestria\Cloud_Computing\ParallelSolution\ParallelSolution\ParallelSolution.cpp(19,6): warning C4101: 'i': variable local sin referencia
   ParallelSolution.vcxproj -> F:\Maestria\Cloud_Computing\ParallelSolution\x64\Debug\ParallelSolution.exe
